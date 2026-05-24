@@ -193,12 +193,12 @@ Admin login detected from unusual location
 - Severity-based filtering
 - Attack timeline visualization
 - Real-time metrics update
+- File upload support
 
 ---
 
 ## 🚀 Future Improvements
 
-- [ ] File upload support (`.log` / `.csv` parsing)
 - [ ] Real-time WebSocket alerts
 - [ ] Email alert notification system
 - [ ] Cloud deployment (Vercel + Render)
@@ -220,6 +220,7 @@ Admin login detected from unusual location
 
 ## 👨‍💻 Author
 
+Mayuresh Tuplondhe
 Cyber Security AI Monitoring System  
 Built for Hackathon Submission
 
